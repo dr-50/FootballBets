@@ -1,10 +1,10 @@
 .banner {
-    background-color: teal;
+    background-color:steelblue;
     height: 100px;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    color: gold;
+    color: white;
     padding-left: 25px;
 }
 
@@ -13,5 +13,5 @@ h3 {
 }
 
 .headertable {
-    background-color:lightblue;
+    background-color:tan;
 }
