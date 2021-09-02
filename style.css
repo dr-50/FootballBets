@@ -7,9 +7,14 @@
     color: white;
     padding-left: 25px;
 }
+.total{
+    color: tomato;
+    font-weight: bold;
+}
 
 h3 {
     font-size: 14px;
+    
 }
 
 .headertable {
